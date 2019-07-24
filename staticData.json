@@ -1,0 +1,52 @@
+{
+  "cells": [
+    {
+      "title": "Intro to react",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "Basic styling in CSS",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "Adaptive layout with CSS Grid",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "Interactions and animations",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "SVG Animations",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "Components and props",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "States and events",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "Styled components",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "Static data with JSON",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "GraphQL with Contentful",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "Publish to Netlify",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    },
+    {
+      "title": "Paymant with Checkout",
+      "image": "https://i.imgur.com/LLWNoqY.png"
+    }
+  ]
+}
